@@ -1,0 +1,13 @@
+Connecting to Slack with Socket Mode.
+Connected to Slack with Socket Mode.
+Connected as App ID A03ATJGJSA1
+Command Events
+2022-04-10 19:38:57.131049083 +0000 UTC m=+86.810353403
+my dob is <date>
+current yearday:  100
+birth yearday:  298
+no birthday yet this year. So, youre not  77
+Rather, you are  76
+&{map[date:1945-10-25]}
+&{C03AYRTHV9S UCB6D91PZ <@U03AFSW6355> my dob is 1945-10-25 1649619535.724879  0xc0005b8140 app_mention }
+
