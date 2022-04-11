@@ -1,5 +1,9 @@
 # Slack bot in Golang to return age based on given birthdate in format YYYY-MM-DD
 
+## Slack Bot in Action (today's date: 2022-04-10)
+
+![alt text](./img/age-bot-example.png "Age-bot example")
+
 ## follow tutorial @2:20:55 in this video to configure the slack app
 
 >- https://www.youtube.com/watch?v=jFfo23yIWac&t=22s
